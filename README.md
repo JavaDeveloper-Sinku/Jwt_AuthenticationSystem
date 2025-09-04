@@ -5,7 +5,7 @@ It provides secure login and signup functionality using **JSON Web Tokens (JWT)*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Using
 
 - Java 17+
 - Spring Boot
@@ -21,7 +21,7 @@ It provides secure login and signup functionality using **JSON Web Tokens (JWT)*
 
 - ✅ User Registration (Signup)
 - ✅ User Login (with token generation)
-- ✅ Secure endpoints (accessible only with valid JWT)
+- ✅ Secure endpoints (accessible only with a valid JWT)
 - ✅ Password hashing using BCrypt
 - ✅ Role-based access (optional)
 - ✅ Token validation in every request
@@ -39,7 +39,7 @@ It provides secure login and signup functionality using **JSON Web Tokens (JWT)*
 
 ---
 
-## ⚙️ How to Run Locally
+## ⚙️ How to Run Locally  
 
 1. **Clone the Repository**  
    ```bash
